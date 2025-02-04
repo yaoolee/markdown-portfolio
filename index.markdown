@@ -1,8 +1,11 @@
 # Yao Tiem Lee Portfolio
 
 [About](index)
+
 [Education](education)
+
 [Experience](experience)
+
 [Contact](contact)
 
 ## About me
