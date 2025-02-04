@@ -1,7 +1,9 @@
 # Contact
 
 [About Me](index)
+
 [Education](education)
+
 [Experience](experience)
 
  Let's connect!
